@@ -1,0 +1,209 @@
+@grey: #f8f9fa;
+@dark-grey: #54595d;
+@page-content-padding:	20px;
+@content-padding-horiz: 5em;
+@content-padding-vert: 1.25em;
+@header-height: 61px;
+@header-padding-horiz: 25px;
+@hamburger-padding-horiz: 10px;
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	height: auto !important;
+	background: white !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	border-bottom: 1px solid #ddd !important;
+}
+
+.page-container {
+	display: flex;
+	box-shadow: 0px 4px 8px -3px rgba(15, 15, 15, 0.12)
+}
+
+main {
+	margin-top: 2px;
+	margin-left: 8%;
+	margin-right: 8%;
+
+}
+
+.hamburger--open {
+	main {
+		flex: 1;
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.sidebar {
+		display: block;
+	}
+
+	main {
+		box-shadow: -1px -1px 8px 1px rgba(0,0,0,.12);
+	}
+}
+
+#content {
+	padding: @content-padding-vert @content-padding-horiz !important;
+	border: none;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+.article-nav {
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #ddd;
+	margin-left: @content-padding-horiz;
+	margin-right: @content-padding-horiz;
+
+	#left-navigation {
+		margin-bottom: -1px !important;
+	}
+
+	#right-navigation {
+		margin-bottom: -1px !important;
+	}
+}
+
+.epidermisTabs li.selected {
+	border-bottom: 2px solid @dark-grey;
+}
+
+.epidermisMenu h3 span {
+	padding-top: 0;
+}
+
+#p-logo {
+	width: auto;
+	height: auto;
+}
+
+.mw-wiki-logo {
+	width: auto;
+	height: auto;
+}
+
+header {
+	max-height: @header-height;
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	background: @grey;
+	padding: 15px 25px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.header__main {
+	margin-left: -(@hamburger-padding-horiz);
+	display: flex;
+}
+
+.hamburger {
+	background: transparent;
+	cursor: pointer;
+	border: none;
+	padding-left: @hamburger-padding-horiz;
+	padding-right: @hamburger-padding-horiz;
+	margin-right: 5px;
+}
+
+.mw-wiki-logo {
+	height: 100px !important;
+}
+
+#p-logo a {
+	width: auto;
+	height: auto;
+}
+
+#p-personal {
+	position: relative !important;
+	right: 0 !important;
+	left: 0 !important;
+	top: 0 !important;
+	bottom: 0 !important;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	ul {
+		padding-left: 0 !important;
+	}
+}
+
+.logo {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+
+main {
+	box-sizing: border-box;
+	min-height: calc(~"100vh - " @header-height + 2px);
+	flex: 1;
+	padding-top: @page-content-padding;
+	background: white;
+	box-shadow: none;
+}
+
+#left-navigation, #right-navigation {
+	float: none;
+	margin: 0 !important;
+}
+
+#p-cactions, #p-variants {
+	display: none;
+}
+
+.sidebar {
+	box-sizing: border-box;
+	display: none;
+	background: @grey;
+	padding-top: @page-content-padding;
+	padding-left: @header-padding-horiz;
+	padding-right: @header-padding-horiz;
+
+	h3 {
+		margin-top: 20px;
+		font-size: .9em !important;
+		color: @dark-grey;
+	}
+
+	ul {
+		margin-left: 0;
+		list-style: none;
+	}
+
+	li {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	a {
+		font-size: .9em;
+		color: @dark-grey;
+	}
+}
+
+#p-navigation-label {
+	display: none;
+}
+
+.epidermisTabs, .epidermisTabs li, .epidermisTabs span, .epidermisTabs ul {
+	height: auto;
+	background-image: none;
+}
+
+.epidermisTabs a {
+	padding-bottom: 2em;
+	font-weight: bold;
+	color: @dark-grey !important;
+}

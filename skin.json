@@ -59,6 +59,7 @@
 		},
 		"skins.epidermis.js": {
 			"scripts": [
+				"hack.js",
 				"collapsibleTabs.js",
 				"epidermis.js"
 			],

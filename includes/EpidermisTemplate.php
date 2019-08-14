@@ -27,7 +27,6 @@
  * @ingroup Skins
  */
 class EpidermisTemplate extends BaseTemplate {
-
 	/**
 	 * Outputs the entire contents of the HTML page
 	 */
@@ -93,78 +92,53 @@ class EpidermisTemplate extends BaseTemplate {
 			'html-debuglog' => $this->get( 'debughtml', '' ),
 			// From BaseTemplate::getTrail (handles bottom JavaScript)
 			'html-printtail' => $this->getTrail(),
+			'logo-src' => $this->data['nav_urls']['mainpage']['href'],
+			'personal-links' => $this->renderPersonal(),
+			'sidebar' => $this->renderSidebar(),
+			'article-nav' => $this->renderArticleNav()
 		];
 
-		// TODO: Convert the rest to Mustache
-		ob_start();
-		?>
-		<div id="mw-navigation">
-			<h2><?php $this->msg( 'navigation-heading' ) ?></h2>
-			<div id="mw-head">
-				<?php $this->renderNavigation( [ 'PERSONAL' ] ); ?>
-				<div id="left-navigation">
-					<?php $this->renderNavigation( [ 'NAMESPACES', 'VARIANTS' ] ); ?>
-				</div>
-				<div id="right-navigation">
-					<?php $this->renderNavigation( [ 'VIEWS', 'ACTIONS', 'SEARCH' ] ); ?>
-				</div>
-			</div>
-			<div id="mw-panel">
-				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="<?php
-					echo htmlspecialchars( $this->data['nav_urls']['mainpage']['href'] )
-					?>"<?php
-					echo Xml::expandAttributes( Linker::tooltipAndAccesskeyAttribs( 'p-logo' ) )
-					?>></a></div>
-				<?php $this->renderPortals( $this->data['sidebar'] ); ?>
-			</div>
-		</div>
-		<?php Hooks::run( 'EpidermisBeforeFooter' ); ?>
-		<div id="footer" role="contentinfo"<?php $this->html( 'userlangattributes' ) ?>>
-			<?php
-			foreach ( $this->getFooterLinks() as $category => $links ) {
-			?>
-			<ul id="footer-<?php echo $category ?>">
-				<?php
-				foreach ( $links as $link ) {
-				?>
-				<li id="footer-<?php echo $category ?>-<?php echo $link ?>"><?php $this->html( $link ) ?></li>
-				<?php
-				}
-				?>
-			</ul>
-			<?php
-			}
-			?>
-			<?php $footericons = $this->getFooterIcons( 'icononly' );
-			if ( count( $footericons ) > 0 ) {
-				?>
-				<ul id="footer-icons" class="noprint">
-					<?php
-					foreach ( $footericons as $blockName => $footerIcons ) {
-					?>
-					<li id="footer-<?php echo htmlspecialchars( $blockName ); ?>ico">
-						<?php
-						foreach ( $footerIcons as $icon ) {
-							echo $this->getSkin()->makeFooterIcon( $icon );
-						}
-						?>
-					</li>
-					<?php
-					}
-					?>
-				</ul>
-			<?php
-			}
-			?>
-			<div style="clear: both;"></div>
-		</div>
-		<?php
-		$params['html-unported'] = ob_get_contents();
-		ob_end_clean();
+
 
 		// Prepare and output the HTML response
-		$templates = new TemplateParser( __DIR__ . '/templates' );
+		$templates = new TemplateParser( __DIR__ . '/templates', true );
 		echo $templates->processTemplate( 'index', $params );
+	}
+
+	private function renderPersonal() {
+		ob_start();
+		$this->renderNavigation( [ 'PERSONAL' ] );
+		$html = ob_get_contents();
+		ob_end_clean();
+
+		return $html;
+	}
+
+	private function renderSidebar() {
+		ob_start();
+			$this->renderPortals( $this->data['sidebar'] );
+
+		$html = ob_get_contents();
+		ob_end_clean();
+
+		return $html;
+	}
+	
+	private function renderArticleNav() {
+		ob_start();
+		?>
+			<div id="left-navigation">
+				<?php $this->renderNavigation( [ 'NAMESPACES', 'VARIANTS' ] ); ?>
+			</div>
+			<div id="right-navigation">
+				<?php $this->renderNavigation( [ 'VIEWS', 'ACTIONS', 'SEARCH' ] ); ?>
+			</div>
+
+		<?php
+			$html = ob_get_contents();
+			ob_end_clean();
+
+			return $html;
 	}
 
 	/**
