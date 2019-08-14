@@ -5,14 +5,14 @@
 			"Athena in Wonderland"
 		]
 	},
-	"vector-action-addsection": "Nuobo cacho",
-	"vector-action-delete": "Botar fuora",
-	"vector-action-move": "Arrastrar",
-	"vector-action-protect": "Porteger",
-	"vector-action-unprotect": "Altarar la porteçon",
-	"vector-view-create": "Criar",
-	"vector-view-edit": "Eiditar",
-	"vector-view-history": "Ber stórico",
-	"vector-view-view": "Lher",
-	"vector-more-actions": "Mais"
+	"epidermis-action-addsection": "Nuobo cacho",
+	"epidermis-action-delete": "Botar fuora",
+	"epidermis-action-move": "Arrastrar",
+	"epidermis-action-protect": "Porteger",
+	"epidermis-action-unprotect": "Altarar la porteçon",
+	"epidermis-view-create": "Criar",
+	"epidermis-view-edit": "Eiditar",
+	"epidermis-view-history": "Ber stórico",
+	"epidermis-view-view": "Lher",
+	"epidermis-more-actions": "Mais"
 }

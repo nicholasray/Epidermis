@@ -5,12 +5,12 @@
 			"Cybernenea11"
 		]
 	},
-	"vector-action-delete": "Штерӂере",
-	"vector-action-move": "Реденумире",
-	"vector-action-protect": "Протежаре",
-	"vector-view-create": "Креаре",
-	"vector-view-edit": "Едитязэ",
-	"vector-view-history": "Историк",
-	"vector-view-view": "Лектурэ",
-	"vector-more-actions": "Май мулт"
+	"epidermis-action-delete": "Штерӂере",
+	"epidermis-action-move": "Реденумире",
+	"epidermis-action-protect": "Протежаре",
+	"epidermis-view-create": "Креаре",
+	"epidermis-view-edit": "Едитязэ",
+	"epidermis-view-history": "Историк",
+	"epidermis-view-view": "Лектурэ",
+	"epidermis-more-actions": "Май мулт"
 }

@@ -8,17 +8,17 @@
 			"PiefPafPier"
 		]
 	},
-	"skinname-vector": "Vektor",
-	"vector-action-addsection": "Nij mêd",
-	"vector-action-delete": "Fuortsmite",
-	"vector-action-move": "Omneame",
-	"vector-action-protect": "Beskermje",
-	"vector-action-undelete": "Tebeksette",
-	"vector-action-unprotect": "Beskerming fuorthelje",
-	"vector-view-create": "Oanmeitsje",
-	"vector-view-edit": "Bewurkje",
-	"vector-view-history": "Skiednis sjen litte",
-	"vector-view-view": "Lêze",
-	"vector-view-viewsource": "Besjoch de boarne",
-	"vector-more-actions": "Mear"
+	"skinname-epidermis": "Vektor",
+	"epidermis-action-addsection": "Nij mêd",
+	"epidermis-action-delete": "Fuortsmite",
+	"epidermis-action-move": "Omneame",
+	"epidermis-action-protect": "Beskermje",
+	"epidermis-action-undelete": "Tebeksette",
+	"epidermis-action-unprotect": "Beskerming fuorthelje",
+	"epidermis-view-create": "Oanmeitsje",
+	"epidermis-view-edit": "Bewurkje",
+	"epidermis-view-history": "Skiednis sjen litte",
+	"epidermis-view-view": "Lêze",
+	"epidermis-view-viewsource": "Besjoch de boarne",
+	"epidermis-more-actions": "Mear"
 }

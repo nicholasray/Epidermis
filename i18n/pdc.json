@@ -4,11 +4,11 @@
 			"Xqt"
 		]
 	},
-	"vector-action-delete": "Verwische",
-	"vector-action-move": "Ziehe",
-	"vector-action-protect": "Schitze",
-	"vector-view-create": "Schtaerte",
-	"vector-view-edit": "Ennere",
-	"vector-view-history": "Gschicht zeige",
-	"vector-view-view": "Lese"
+	"epidermis-action-delete": "Verwische",
+	"epidermis-action-move": "Ziehe",
+	"epidermis-action-protect": "Schitze",
+	"epidermis-view-create": "Schtaerte",
+	"epidermis-view-edit": "Ennere",
+	"epidermis-view-history": "Gschicht zeige",
+	"epidermis-view-view": "Lese"
 }

@@ -4,10 +4,10 @@
 			"R12ntech"
 		]
 	},
-	"vector-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
-	"vector-action-move": "ᎯᎲᎾ",
-	"vector-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
-	"vector-view-create": "ᎪᏢᏗ",
-	"vector-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
-	"vector-view-view": "ᎠᎪᎵᏰᏗᏊ"
+	"epidermis-action-delete": "ᎧᎵ ᎠᏍᎪᎸᏛᎯ",
+	"epidermis-action-move": "ᎯᎲᎾ",
+	"epidermis-action-protect": "ᎠᏓᎦᏎᏍᏙᏗ",
+	"epidermis-view-create": "ᎪᏢᏗ",
+	"epidermis-view-edit": "ᎦᏁᏟᏴᏓ ᎰᏪᎸᎦ",
+	"epidermis-view-view": "ᎠᎪᎵᏰᏗᏊ"
 }

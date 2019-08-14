@@ -5,10 +5,10 @@
 			"Bloomaround"
 		]
 	},
-	"vector-action-addsection": "ⲧⲟⲩϩⲟ ⲟⲩⲑⲉⲙⲁ",
-	"vector-view-create": "ⲑⲁⲙⲓⲟ",
-	"vector-view-edit": "ϫⲓⲛⲫⲱⲛϩ",
-	"vector-view-history": "ⲁⲛⲁⲩ ⲉϯϩⲓⲥⲧⲟⲣⲓⲁ",
-	"vector-view-view": "ⲱϣ",
-	"vector-more-actions": "ϩⲟⲩⲟ ⲉⲣⲟⲥ"
+	"epidermis-action-addsection": "ⲧⲟⲩϩⲟ ⲟⲩⲑⲉⲙⲁ",
+	"epidermis-view-create": "ⲑⲁⲙⲓⲟ",
+	"epidermis-view-edit": "ϫⲓⲛⲫⲱⲛϩ",
+	"epidermis-view-history": "ⲁⲛⲁⲩ ⲉϯϩⲓⲥⲧⲟⲣⲓⲁ",
+	"epidermis-view-view": "ⲱϣ",
+	"epidermis-more-actions": "ϩⲟⲩⲟ ⲉⲣⲟⲥ"
 }

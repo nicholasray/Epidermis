@@ -4,15 +4,15 @@
 			"Hanberke"
 		]
 	},
-	"vector-action-addsection": "Tema goş",
-	"vector-action-delete": "Öçür",
-	"vector-action-move": "Adyny üýtget",
-	"vector-action-protect": "Goraga al",
-	"vector-action-undelete": "Öçürmäni yzyna al",
-	"vector-action-unprotect": "Goragy üýtget",
-	"vector-view-create": "Döret",
-	"vector-view-edit": "Üýtget",
-	"vector-view-history": "Taryhy gör",
-	"vector-view-view": "Oka",
-	"vector-view-viewsource": "Çeşmäni gör"
+	"epidermis-action-addsection": "Tema goş",
+	"epidermis-action-delete": "Öçür",
+	"epidermis-action-move": "Adyny üýtget",
+	"epidermis-action-protect": "Goraga al",
+	"epidermis-action-undelete": "Öçürmäni yzyna al",
+	"epidermis-action-unprotect": "Goragy üýtget",
+	"epidermis-view-create": "Döret",
+	"epidermis-view-edit": "Üýtget",
+	"epidermis-view-history": "Taryhy gör",
+	"epidermis-view-view": "Oka",
+	"epidermis-view-viewsource": "Çeşmäni gör"
 }

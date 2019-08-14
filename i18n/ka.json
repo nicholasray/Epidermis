@@ -6,18 +6,18 @@
 			"გიორგიმელა"
 		]
 	},
-	"skinname-vector": "ვექტორული",
-	"vector.css": "/* აქ ჩასმული CSS გამოყენებული იქნება ვექტორული გაფორმების თემაში */",
-	"vector-action-addsection": "თემის ჩამატება",
-	"vector-action-delete": "წაშლა",
-	"vector-action-move": "გადატანა",
-	"vector-action-protect": "დაცვა",
-	"vector-action-undelete": "აღდგენა",
-	"vector-action-unprotect": "დაცვის შეცვლა",
-	"vector-view-create": "შექმნა",
-	"vector-view-edit": "რედაქტირება",
-	"vector-view-history": "ისტორია",
-	"vector-view-view": "შემოწმებული სტატია",
-	"vector-view-viewsource": "წყაროს ხილვა",
-	"vector-more-actions": "მეტი"
+	"skinname-epidermis": "ვექტორული",
+	"epidermis.css": "/* აქ ჩასმული CSS გამოყენებული იქნება ვექტორული გაფორმების თემაში */",
+	"epidermis-action-addsection": "თემის ჩამატება",
+	"epidermis-action-delete": "წაშლა",
+	"epidermis-action-move": "გადატანა",
+	"epidermis-action-protect": "დაცვა",
+	"epidermis-action-undelete": "აღდგენა",
+	"epidermis-action-unprotect": "დაცვის შეცვლა",
+	"epidermis-view-create": "შექმნა",
+	"epidermis-view-edit": "რედაქტირება",
+	"epidermis-view-history": "ისტორია",
+	"epidermis-view-view": "შემოწმებული სტატია",
+	"epidermis-view-viewsource": "წყაროს ხილვა",
+	"epidermis-more-actions": "მეტი"
 }

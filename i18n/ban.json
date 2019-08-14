@@ -8,14 +8,14 @@
 			"NoiX180"
 		]
 	},
-	"vector-action-addsection": "imbuhin indik wacana",
-	"vector-action-delete": "Usap",
-	"vector-action-move": "Gingsirang",
-	"vector-action-protect": "Saib",
-	"vector-view-create": "Karyanin",
-	"vector-view-edit": "Uah",
-	"vector-view-history": "Cingak babad",
-	"vector-view-view": "Wacén",
-	"vector-view-viewsource": "Cingak wit",
-	"vector-more-actions": "Lianan"
+	"epidermis-action-addsection": "imbuhin indik wacana",
+	"epidermis-action-delete": "Usap",
+	"epidermis-action-move": "Gingsirang",
+	"epidermis-action-protect": "Saib",
+	"epidermis-view-create": "Karyanin",
+	"epidermis-view-edit": "Uah",
+	"epidermis-view-history": "Cingak babad",
+	"epidermis-view-view": "Wacén",
+	"epidermis-view-viewsource": "Cingak wit",
+	"epidermis-more-actions": "Lianan"
 }

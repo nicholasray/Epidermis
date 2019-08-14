@@ -5,16 +5,16 @@
 			"Njardarlogar"
 		]
 	},
-	"vector-action-addsection": "Nytt emne",
-	"vector-action-delete": "Slett",
-	"vector-action-move": "Flytt",
-	"vector-action-protect": "Vern",
-	"vector-action-undelete": "Gjenopprett",
-	"vector-action-unprotect": "Endra vern",
-	"vector-view-create": "Opprett",
-	"vector-view-edit": "Endre",
-	"vector-view-history": "Sjå historikken",
-	"vector-view-view": "Les",
-	"vector-view-viewsource": "Sjå kjelda",
-	"vector-more-actions": "Meir"
+	"epidermis-action-addsection": "Nytt emne",
+	"epidermis-action-delete": "Slett",
+	"epidermis-action-move": "Flytt",
+	"epidermis-action-protect": "Vern",
+	"epidermis-action-undelete": "Gjenopprett",
+	"epidermis-action-unprotect": "Endra vern",
+	"epidermis-view-create": "Opprett",
+	"epidermis-view-edit": "Endre",
+	"epidermis-view-history": "Sjå historikken",
+	"epidermis-view-view": "Les",
+	"epidermis-view-viewsource": "Sjå kjelda",
+	"epidermis-more-actions": "Meir"
 }

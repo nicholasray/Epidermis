@@ -6,17 +6,17 @@
 			"Joao Xavier"
 		]
 	},
-	"vector-action-addsection": "Adjuntar topiko",
-	"vector-action-delete": "Efacar",
-	"vector-action-move": "Movar",
-	"vector-action-protect": "Protektar",
-	"vector-action-undelete": "Rekuperar",
-	"vector-action-unprotect": "Chanjar protektado",
-	"vector-view-create": "Krear",
-	"vector-view-edit": "Redaktar",
-	"vector-view-history": "Vidar versionaro",
-	"vector-view-view": "Lektar",
-	"vector-view-viewsource": "Vidar fonto",
-	"vector-jumptosearch": "Irez a serchilo",
-	"vector-more-actions": "Pluse"
+	"epidermis-action-addsection": "Adjuntar topiko",
+	"epidermis-action-delete": "Efacar",
+	"epidermis-action-move": "Movar",
+	"epidermis-action-protect": "Protektar",
+	"epidermis-action-undelete": "Rekuperar",
+	"epidermis-action-unprotect": "Chanjar protektado",
+	"epidermis-view-create": "Krear",
+	"epidermis-view-edit": "Redaktar",
+	"epidermis-view-history": "Vidar versionaro",
+	"epidermis-view-view": "Lektar",
+	"epidermis-view-viewsource": "Vidar fonto",
+	"epidermis-jumptosearch": "Irez a serchilo",
+	"epidermis-more-actions": "Pluse"
 }

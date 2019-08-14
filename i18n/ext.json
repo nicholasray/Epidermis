@@ -5,16 +5,16 @@
 			"Crucifunked"
 		]
 	},
-	"vector-action-addsection": "Añiil tema",
-	"vector-action-delete": "Esborral",
-	"vector-action-move": "Mual",
-	"vector-action-protect": "Protegel",
-	"vector-action-undelete": "Esborral",
-	"vector-action-unprotect": "Esprotegel",
-	"vector-view-create": "Crial",
-	"vector-view-edit": "Eital",
-	"vector-view-history": "Guipal estorial",
-	"vector-view-view": "Leyel",
-	"vector-view-viewsource": "Guipal cóigu",
-	"vector-more-actions": "Más"
+	"epidermis-action-addsection": "Añiil tema",
+	"epidermis-action-delete": "Esborral",
+	"epidermis-action-move": "Mual",
+	"epidermis-action-protect": "Protegel",
+	"epidermis-action-undelete": "Esborral",
+	"epidermis-action-unprotect": "Esprotegel",
+	"epidermis-view-create": "Crial",
+	"epidermis-view-edit": "Eital",
+	"epidermis-view-history": "Guipal estorial",
+	"epidermis-view-view": "Leyel",
+	"epidermis-view-viewsource": "Guipal cóigu",
+	"epidermis-more-actions": "Más"
 }

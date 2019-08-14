@@ -4,15 +4,15 @@
 			"Usingha"
 		]
 	},
-	"vector-action-addsection": "বিষয় তিলকর",
-	"vector-action-delete": "পুসে বেলা",
-	"vector-action-move": "থেইকর",
-	"vector-action-protect": "লুকর",
-	"vector-action-undelete": "নাপুসি",
-	"vector-action-unprotect": "লুকরানিহান সিলকর",
-	"vector-view-create": "হঙকরিক",
-	"vector-view-edit": "পতানি",
-	"vector-view-history": "ইতিহাস চেইক",
-	"vector-view-view": "পাকরিক",
-	"vector-view-viewsource": "সোর্স চেইক"
+	"epidermis-action-addsection": "বিষয় তিলকর",
+	"epidermis-action-delete": "পুসে বেলা",
+	"epidermis-action-move": "থেইকর",
+	"epidermis-action-protect": "লুকর",
+	"epidermis-action-undelete": "নাপুসি",
+	"epidermis-action-unprotect": "লুকরানিহান সিলকর",
+	"epidermis-view-create": "হঙকরিক",
+	"epidermis-view-edit": "পতানি",
+	"epidermis-view-history": "ইতিহাস চেইক",
+	"epidermis-view-view": "পাকরিক",
+	"epidermis-view-viewsource": "সোর্স চেইক"
 }

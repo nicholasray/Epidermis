@@ -4,15 +4,15 @@
 			"RMizo"
 		]
 	},
-	"vector-action-addsection": "Thupui belhna",
-	"vector-action-delete": "Paihna",
-	"vector-action-move": "Sawnna",
-	"vector-action-protect": "Venhimna",
-	"vector-action-undelete": "Lak kir lehna",
-	"vector-action-unprotect": "Venhimna dinhmun tidanglam rawh",
-	"vector-view-create": "Siamna",
-	"vector-view-edit": "Siamţhatna",
-	"vector-view-history": "Hunhlui-chanchin",
-	"vector-view-view": "Chhiarna",
-	"vector-view-viewsource": "A hnar enna"
+	"epidermis-action-addsection": "Thupui belhna",
+	"epidermis-action-delete": "Paihna",
+	"epidermis-action-move": "Sawnna",
+	"epidermis-action-protect": "Venhimna",
+	"epidermis-action-undelete": "Lak kir lehna",
+	"epidermis-action-unprotect": "Venhimna dinhmun tidanglam rawh",
+	"epidermis-view-create": "Siamna",
+	"epidermis-view-edit": "Siamţhatna",
+	"epidermis-view-history": "Hunhlui-chanchin",
+	"epidermis-view-view": "Chhiarna",
+	"epidermis-view-viewsource": "A hnar enna"
 }

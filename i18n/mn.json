@@ -7,16 +7,16 @@
 			"Sembuk"
 		]
 	},
-	"vector-action-addsection": "Сэдэв нэмэх",
-	"vector-action-delete": "Устгах",
-	"vector-action-move": "Зөөх",
-	"vector-action-protect": "Хамгаалах",
-	"vector-action-undelete": "Үл устгах",
-	"vector-action-unprotect": "Хамгаалалтаа солих",
-	"vector-view-create": "Үүсгэх",
-	"vector-view-edit": "Засварлах",
-	"vector-view-history": "Түүх",
-	"vector-view-view": "Унших",
-	"vector-view-viewsource": "Кодыг харах",
-	"vector-more-actions": "Дэлгэрэнгүй"
+	"epidermis-action-addsection": "Сэдэв нэмэх",
+	"epidermis-action-delete": "Устгах",
+	"epidermis-action-move": "Зөөх",
+	"epidermis-action-protect": "Хамгаалах",
+	"epidermis-action-undelete": "Үл устгах",
+	"epidermis-action-unprotect": "Хамгаалалтаа солих",
+	"epidermis-view-create": "Үүсгэх",
+	"epidermis-view-edit": "Засварлах",
+	"epidermis-view-history": "Түүх",
+	"epidermis-view-view": "Унших",
+	"epidermis-view-viewsource": "Кодыг харах",
+	"epidermis-more-actions": "Дэлгэрэнгүй"
 }

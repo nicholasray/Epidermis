@@ -4,16 +4,16 @@
 			"Borichèt"
 		]
 	},
-	"vector-action-addsection": "Gionté n'argoment",
-	"vector-action-delete": "Scancelé",
-	"vector-action-move": "Tramudé",
-	"vector-action-protect": "Protege",
-	"vector-action-undelete": "Arcuperé",
-	"vector-action-unprotect": "Cangé la protession",
-	"vector-view-create": "Creé",
-	"vector-view-edit": "Modifiché",
-	"vector-view-history": "Smon-e la stòria",
-	"vector-view-view": "Lese",
-	"vector-view-viewsource": "Vëdde la sorgiss",
-	"vector-more-actions": "Ëd pi"
+	"epidermis-action-addsection": "Gionté n'argoment",
+	"epidermis-action-delete": "Scancelé",
+	"epidermis-action-move": "Tramudé",
+	"epidermis-action-protect": "Protege",
+	"epidermis-action-undelete": "Arcuperé",
+	"epidermis-action-unprotect": "Cangé la protession",
+	"epidermis-view-create": "Creé",
+	"epidermis-view-edit": "Modifiché",
+	"epidermis-view-history": "Smon-e la stòria",
+	"epidermis-view-view": "Lese",
+	"epidermis-view-viewsource": "Vëdde la sorgiss",
+	"epidermis-more-actions": "Ëd pi"
 }

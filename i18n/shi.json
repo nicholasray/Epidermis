@@ -5,16 +5,16 @@
 			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⴰⵜⵜⵉ",
-	"vector-action-protect": "Ḥbu",
-	"vector-action-undelete": "Rard may mayḥiydn",
-	"vector-action-unprotect": "Ḥiyd aḥbu",
-	"vector-view-create": "ⵙⵏⵓⵍⴼⵓ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"epidermis-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"epidermis-action-delete": "ⴽⴽⵙ",
+	"epidermis-action-move": "ⵙⵎⴰⵜⵜⵉ",
+	"epidermis-action-protect": "Ḥbu",
+	"epidermis-action-undelete": "Rard may mayḥiydn",
+	"epidermis-action-unprotect": "Ḥiyd aḥbu",
+	"epidermis-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"epidermis-view-edit": "ⵙⵏⴼⵍ",
+	"epidermis-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"epidermis-view-view": "ⵖⵔ",
+	"epidermis-view-viewsource": "ⵥⵔ ⴰⵙⴰⴳⵎ",
+	"epidermis-more-actions": "ⵓⴳⴳⴰⵔ"
 }

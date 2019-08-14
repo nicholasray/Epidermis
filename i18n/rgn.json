@@ -1,9 +1,9 @@
 {
 	"@metadata": [],
-	"vector-action-addsection": "Zonta una cjacarèda",
-	"vector-action-delete": "Scanzèla",
-	"vector-action-move": "Chèmbia nòm",
-	"vector-action-protect": "Metti-j una pruteziò",
-	"vector-action-undelete": "Armett a post",
-	"vector-action-unprotect": "Sbloca"
+	"epidermis-action-addsection": "Zonta una cjacarèda",
+	"epidermis-action-delete": "Scanzèla",
+	"epidermis-action-move": "Chèmbia nòm",
+	"epidermis-action-protect": "Metti-j una pruteziò",
+	"epidermis-action-undelete": "Armett a post",
+	"epidermis-action-unprotect": "Sbloca"
 }

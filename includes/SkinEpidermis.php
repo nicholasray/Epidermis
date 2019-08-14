@@ -1,6 +1,6 @@
 <?php
 /**
- * Vector - Modern version of MonoBook with fresh look and many usability
+ * Epidermis - Modern version of MonoBook with fresh look and many usability
  * improvements.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -23,23 +23,23 @@
  */
 
 /**
- * Skin subclass for Vector
+ * Skin subclass for Epidermis
  * @ingroup Skins
  */
-class SkinVector extends SkinTemplate {
-	public $skinname = 'vector';
-	public $stylename = 'Vector';
-	public $template = 'VectorTemplate';
+class SkinEpidermis extends SkinTemplate {
+	public $skinname = 'epidermis';
+	public $stylename = 'Epidermis';
+	public $template = 'EpidermisTemplate';
 	/**
 	 * @var Config
 	 */
-	private $vectorConfig;
+	private $epidermisConfig;
 	private $responsiveMode = false;
 
 	public function __construct() {
 		parent::__construct( ...func_get_args() );
-		$this->vectorConfig = \MediaWiki\MediaWikiServices::getInstance()->getConfigFactory()
-			->makeConfig( 'vector' );
+		$this->epidermisConfig = \MediaWiki\MediaWikiServices::getInstance()->getConfigFactory()
+			->makeConfig( 'epidermis' );
 	}
 
 	/** @inheritDoc */
@@ -55,7 +55,7 @@ class SkinVector extends SkinTemplate {
 		if ( !$this->responsiveMode ) {
 			$out = $this->getOutput();
 			$out->addMeta( 'viewport', 'width=device-width, initial-scale=1' );
-			$out->addModuleStyles( 'skins.vector.styles.responsive' );
+			$out->addModuleStyles( 'skins.epidermis.styles.responsive' );
 			$this->responsiveMode = true;
 		}
 	}
@@ -67,11 +67,11 @@ class SkinVector extends SkinTemplate {
 	public function initPage( OutputPage $out ) {
 		parent::initPage( $out );
 
-		if ( $this->vectorConfig->get( 'VectorResponsive' ) ) {
+		if ( $this->epidermisConfig->get( 'EpidermisResponsive' ) ) {
 			$this->enableResponsiveMode();
 		}
 
-		$out->addModules( 'skins.vector.js' );
+		$out->addModules( 'skins.epidermis.js' );
 	}
 
 	/**
@@ -83,7 +83,7 @@ class SkinVector extends SkinTemplate {
 
 		$out->addModuleStyles( [
 			'mediawiki.skinning.interface',
-			'skins.vector.styles',
+			'skins.epidermis.styles',
 		] );
 	}
 
@@ -95,7 +95,7 @@ class SkinVector extends SkinTemplate {
 	 * @return QuickTemplate
 	 */
 	public function setupTemplate( $classname, $repository = false, $cache_dir = false ) {
-		return new $classname( $this->vectorConfig );
+		return new $classname( $this->epidermisConfig );
 	}
 
 	/**

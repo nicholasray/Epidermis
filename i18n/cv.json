@@ -6,14 +6,14 @@
 			"Chuvash2014"
 		]
 	},
-	"vector-action-addsection": "Тема хуш",
-	"vector-action-delete": "Кăларса пăрах",
-	"vector-action-move": "Ятне улăштар",
-	"vector-action-protect": "Хӳтĕле",
-	"vector-view-create": "Çĕннине ту",
-	"vector-view-edit": "Тӳрлет",
-	"vector-view-history": "Истори",
-	"vector-view-view": "Вула",
-	"vector-view-viewsource": "Кодне пăх",
-	"vector-more-actions": "Тата"
+	"epidermis-action-addsection": "Тема хуш",
+	"epidermis-action-delete": "Кăларса пăрах",
+	"epidermis-action-move": "Ятне улăштар",
+	"epidermis-action-protect": "Хӳтĕле",
+	"epidermis-view-create": "Çĕннине ту",
+	"epidermis-view-edit": "Тӳрлет",
+	"epidermis-view-history": "Истори",
+	"epidermis-view-view": "Вула",
+	"epidermis-view-viewsource": "Кодне пăх",
+	"epidermis-more-actions": "Тата"
 }

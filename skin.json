@@ -1,44 +1,44 @@
 {
-	"name": "Vector",
+	"name": "Epidermis",
 	"author": [
 		"Trevor Parscal",
 		"Roan Kattouw",
 		"..."
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:Vector",
-	"descriptionmsg": "vector-skin-desc",
-	"namemsg": "skinname-vector",
+	"url": "https://www.mediawiki.org/wiki/Skin:Epidermis",
+	"descriptionmsg": "epidermis-skin-desc",
+	"namemsg": "skinname-epidermis",
 	"license-name": "GPL-2.0-or-later",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.29.0"
 	},
 	"ConfigRegistry": {
-		"vector": "GlobalVarConfig::newInstance"
+		"epidermis": "GlobalVarConfig::newInstance"
 	},
 	"ValidSkinNames": {
-		"vector": "Vector"
+		"epidermis": "Epidermis"
 	},
 	"MessagesDirs": {
-		"Vector": [
+		"Epidermis": [
 			"i18n"
 		]
 	},
 	"AutoloadClasses": {
-		"Vector\\Hooks": "includes/Hooks.php",
-		"SkinVector": "includes/SkinVector.php",
-		"VectorTemplate": "includes/VectorTemplate.php",
-		"Vector\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
+		"Epidermis\\Hooks": "includes/Hooks.php",
+		"SkinEpidermis": "includes/SkinEpidermis.php",
+		"EpidermisTemplate": "includes/EpidermisTemplate.php",
+		"Epidermis\\ResourceLoaderLessModule": "includes/ResourceLoaderLessModule.php"
 	},
 	"Hooks": {
 		"BeforePageDisplayMobile": [
-			"Vector\\Hooks::onBeforePageDisplayMobile"
+			"Epidermis\\Hooks::onBeforePageDisplayMobile"
 		]
 	},
-	"@note": "When modifying skins.vector.styles definition, make sure the installer still works",
+	"@note": "When modifying skins.epidermis.styles definition, make sure the installer still works",
 	"ResourceModules": {
-		"skins.vector.styles": {
-			"class": "Vector\\ResourceLoaderLessModule",
+		"skins.epidermis.styles": {
+			"class": "Epidermis\\ResourceLoaderLessModule",
 			"targets": [ "desktop", "mobile" ],
 			"styles": {
 				"screen.less": {
@@ -51,16 +51,16 @@
 			}
 		},
 
-		"skins.vector.styles.responsive": {
+		"skins.epidermis.styles.responsive": {
 			"targets": [ "desktop", "mobile" ],
 			"styles": [
 				"responsive.less"
 			]
 		},
-		"skins.vector.js": {
+		"skins.epidermis.js": {
 			"scripts": [
 				"collapsibleTabs.js",
-				"vector.js"
+				"epidermis.js"
 			],
 			"dependencies": [
 				"jquery.throttle-debounce",
@@ -70,10 +70,10 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "Vector"
+		"remoteSkinPath": "Epidermis"
 	},
 	"ResourceModuleSkinStyles": {
-		"vector": {
+		"epidermis": {
 			"jquery.tipsy": "skinStyles/jquery.tipsy.less",
 			"jquery.ui.core": [
 				"skinStyles/jquery.ui/jquery.ui.core.css",
@@ -99,10 +99,10 @@
 		}
 	},
 	"config": {
-		"VectorUseSimpleSearch": true,
-		"VectorUseIconWatch": true,
-		"VectorResponsive": false,
-		"VectorPrintLogo": false
+		"EpidermisUseSimpleSearch": true,
+		"EpidermisUseIconWatch": true,
+		"EpidermisResponsive": false,
+		"EpidermisPrintLogo": false
 	},
 	"manifest_version": 1
 }

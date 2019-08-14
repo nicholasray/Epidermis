@@ -4,16 +4,16 @@
 			"Huuchin"
 		]
 	},
-	"vector-action-addsection": "Төриг немх",
-	"vector-action-delete": "Һарһх",
-	"vector-action-move": "Көндәх",
-	"vector-action-protect": "Харсх",
-	"vector-action-undelete": "Һарһх биш",
-	"vector-action-unprotect": "Харсх биш",
-	"vector-view-create": "Бүтәх",
-	"vector-view-edit": "Чиклх",
-	"vector-view-history": "Тууҗин хәләвр",
-	"vector-view-view": "Умшлһн",
-	"vector-view-viewsource": "Темдгллһнә хәләвр",
-	"vector-more-actions": "Нань"
+	"epidermis-action-addsection": "Төриг немх",
+	"epidermis-action-delete": "Һарһх",
+	"epidermis-action-move": "Көндәх",
+	"epidermis-action-protect": "Харсх",
+	"epidermis-action-undelete": "Һарһх биш",
+	"epidermis-action-unprotect": "Харсх биш",
+	"epidermis-view-create": "Бүтәх",
+	"epidermis-view-edit": "Чиклх",
+	"epidermis-view-history": "Тууҗин хәләвр",
+	"epidermis-view-view": "Умшлһн",
+	"epidermis-view-viewsource": "Темдгллһнә хәләвр",
+	"epidermis-more-actions": "Нань"
 }

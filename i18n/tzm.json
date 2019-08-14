@@ -6,16 +6,16 @@
 			"ⵕⴰⵊⵉ"
 		]
 	},
-	"skinname-vector": "Vector",
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⵓⴽⵓⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
-	"vector-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
-	"vector-view-create": "ⴰⵔⴰ",
-	"vector-view-edit": "ⴱⴷⴷⴻⵍ",
-	"vector-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ",
-	"vector-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
-	"vector-more-actions": "ⵓⴳⴳⴰⵔ"
+	"skinname-epidermis": "Epidermis",
+	"epidermis-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"epidermis-action-delete": "ⵓⴽⵓⵙ",
+	"epidermis-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"epidermis-action-undelete": "ⵙⵙⵓⵖⴰⵍ ⵓⴽⵓⵙ",
+	"epidermis-action-unprotect": "ⴱⴷⴷⴻⵍ ⵜⴰⵙⵜⴰⵏⵜ",
+	"epidermis-view-create": "ⴰⵔⴰ",
+	"epidermis-view-edit": "ⴱⴷⴷⴻⵍ",
+	"epidermis-view-history": "ⵥⵕ ⴰⵎⵣⵔⵓⵢ",
+	"epidermis-view-view": "ⵖⵔ",
+	"epidermis-view-viewsource": "ⵥⵕ ⴰⵖⴱⴰⵍⵓ",
+	"epidermis-more-actions": "ⵓⴳⴳⴰⵔ"
 }

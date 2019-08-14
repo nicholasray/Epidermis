@@ -4,15 +4,15 @@
 			"Kizito"
 		]
 	},
-	"vector-action-addsection": "Tandikawo emboozi endala",
-	"vector-action-delete": "Gyawo olupapula luno",
-	"vector-action-move": "Simbuliza",
-	"vector-action-protect": "Ssiba",
-	"vector-action-undelete": "Zawo",
-	"vector-action-unprotect": "Kyusa ebikugizo",
-	"vector-view-create": "Lukolewo",
-	"vector-view-edit": "Kyusa",
-	"vector-view-history": "Ennanda ya fayiro eno",
-	"vector-view-view": "Soma",
-	"vector-view-viewsource": "Kebera obulambike obw'ennono obw'olupapula luno"
+	"epidermis-action-addsection": "Tandikawo emboozi endala",
+	"epidermis-action-delete": "Gyawo olupapula luno",
+	"epidermis-action-move": "Simbuliza",
+	"epidermis-action-protect": "Ssiba",
+	"epidermis-action-undelete": "Zawo",
+	"epidermis-action-unprotect": "Kyusa ebikugizo",
+	"epidermis-view-create": "Lukolewo",
+	"epidermis-view-edit": "Kyusa",
+	"epidermis-view-history": "Ennanda ya fayiro eno",
+	"epidermis-view-view": "Soma",
+	"epidermis-view-viewsource": "Kebera obulambike obw'ennono obw'olupapula luno"
 }

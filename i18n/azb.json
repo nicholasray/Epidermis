@@ -9,16 +9,16 @@
 			"Ilğım"
 		]
 	},
-	"vector-action-addsection": "مؤوضوع آرتیر",
-	"vector-action-delete": "سیل",
-	"vector-action-move": "داشی",
-	"vector-action-protect": "قوْرو",
-	"vector-action-undelete": "سیلمگی قایتار",
-	"vector-action-unprotect": "قوْروماغی دَییشدیر",
-	"vector-view-create": "یارات",
-	"vector-view-edit": "دَییشدیر",
-	"vector-view-history": "گئچمیشه باخ",
-	"vector-view-view": "اوْخو",
-	"vector-view-viewsource": "قایناغا باخ",
-	"vector-more-actions": "داها"
+	"epidermis-action-addsection": "مؤوضوع آرتیر",
+	"epidermis-action-delete": "سیل",
+	"epidermis-action-move": "داشی",
+	"epidermis-action-protect": "قوْرو",
+	"epidermis-action-undelete": "سیلمگی قایتار",
+	"epidermis-action-unprotect": "قوْروماغی دَییشدیر",
+	"epidermis-view-create": "یارات",
+	"epidermis-view-edit": "دَییشدیر",
+	"epidermis-view-history": "گئچمیشه باخ",
+	"epidermis-view-view": "اوْخو",
+	"epidermis-view-viewsource": "قایناغا باخ",
+	"epidermis-more-actions": "داها"
 }

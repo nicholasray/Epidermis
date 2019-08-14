@@ -7,16 +7,16 @@
 			"Reda Benkhadra"
 		]
 	},
-	"vector-action-addsection": "Zid topic",
-	"vector-action-delete": "Suprimi",
-	"vector-action-move": "Neqel",
-	"vector-action-protect": "Ḫami",
-	"vector-action-undelete": "rja lhadf",
-	"vector-action-unprotect": "Ḫiyed l-ḫimaya",
-	"vector-view-create": "Ĥṫareĝ",
-	"vector-view-edit": "Ĝedel",
-	"vector-view-history": "Ṫariĥ l-fiċyé",
-	"vector-view-view": "قرا",
-	"vector-view-viewsource": "Ċof l-masdar",
-	"vector-more-actions": "زيد"
+	"epidermis-action-addsection": "Zid topic",
+	"epidermis-action-delete": "Suprimi",
+	"epidermis-action-move": "Neqel",
+	"epidermis-action-protect": "Ḫami",
+	"epidermis-action-undelete": "rja lhadf",
+	"epidermis-action-unprotect": "Ḫiyed l-ḫimaya",
+	"epidermis-view-create": "Ĥṫareĝ",
+	"epidermis-view-edit": "Ĝedel",
+	"epidermis-view-history": "Ṫariĥ l-fiċyé",
+	"epidermis-view-view": "قرا",
+	"epidermis-view-viewsource": "Ċof l-masdar",
+	"epidermis-more-actions": "زيد"
 }

@@ -5,18 +5,18 @@
 			"V.narsikar"
 		]
 	},
-	"skinname-vector": "सदिश",
-	"vector-skin-desc": "मोनोबुकची आधुनिक आवृत्ती टवटवीत दिसण्यासह व अनेक वापर सुधारणा असलेली",
-	"vector-action-addsection": "विषय जोडा",
-	"vector-action-delete": "वगळा",
-	"vector-action-move": "स्थानांतरण",
-	"vector-action-protect": "सुरक्षित करा",
-	"vector-action-undelete": "वगळलेले पुनर्स्थापित करा",
-	"vector-action-unprotect": "सुरक्षितता बदला",
-	"vector-view-create": "तयार करा",
-	"vector-view-edit": "संपादन",
-	"vector-view-history": "इतिहास पहा",
-	"vector-view-view": "वाचा",
-	"vector-view-viewsource": "स्रोत पहा",
-	"vector-more-actions": "अधिक"
+	"skinname-epidermis": "सदिश",
+	"epidermis-skin-desc": "मोनोबुकची आधुनिक आवृत्ती टवटवीत दिसण्यासह व अनेक वापर सुधारणा असलेली",
+	"epidermis-action-addsection": "विषय जोडा",
+	"epidermis-action-delete": "वगळा",
+	"epidermis-action-move": "स्थानांतरण",
+	"epidermis-action-protect": "सुरक्षित करा",
+	"epidermis-action-undelete": "वगळलेले पुनर्स्थापित करा",
+	"epidermis-action-unprotect": "सुरक्षितता बदला",
+	"epidermis-view-create": "तयार करा",
+	"epidermis-view-edit": "संपादन",
+	"epidermis-view-history": "इतिहास पहा",
+	"epidermis-view-view": "वाचा",
+	"epidermis-view-viewsource": "स्रोत पहा",
+	"epidermis-more-actions": "अधिक"
 }

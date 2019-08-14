@@ -5,16 +5,16 @@
 			"JJohnson1701"
 		]
 	},
-	"vector-action-addsection": "Besettan mearcunge",
-	"vector-action-delete": "Forlēosan",
-	"vector-action-move": "Wegan",
-	"vector-action-protect": "Beorgan",
-	"vector-action-undelete": "Scieppan tramet eft",
-	"vector-action-unprotect": "Andwendan beorgunge",
-	"vector-view-create": "Scieppan",
-	"vector-view-edit": "Ādihtan",
-	"vector-view-history": "Stǣr",
-	"vector-view-view": "Rǣdan",
-	"vector-view-viewsource": "Sēon fruman",
-	"vector-more-actions": "Mā"
+	"epidermis-action-addsection": "Besettan mearcunge",
+	"epidermis-action-delete": "Forlēosan",
+	"epidermis-action-move": "Wegan",
+	"epidermis-action-protect": "Beorgan",
+	"epidermis-action-undelete": "Scieppan tramet eft",
+	"epidermis-action-unprotect": "Andwendan beorgunge",
+	"epidermis-view-create": "Scieppan",
+	"epidermis-view-edit": "Ādihtan",
+	"epidermis-view-history": "Stǣr",
+	"epidermis-view-view": "Rǣdan",
+	"epidermis-view-viewsource": "Sēon fruman",
+	"epidermis-more-actions": "Mā"
 }

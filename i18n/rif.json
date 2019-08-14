@@ -5,11 +5,11 @@
 			"Amara-Amaziɣ"
 		]
 	},
-	"vector-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
-	"vector-action-delete": "ⴽⴽⵙ",
-	"vector-action-move": "ⵙⵎⵓⵜⵜⵉ",
-	"vector-view-create": "ⵙⵏⵓⵍⴼⵓ",
-	"vector-view-edit": "ⵙⵏⴼⵍ",
-	"vector-view-history": "ⴰⵎⵣⵔⵓⵢ",
-	"vector-view-view": "ⵖⵔ"
+	"epidermis-action-addsection": "ⵔⵏⵓ ⴰⵙⵏⵜⵍ",
+	"epidermis-action-delete": "ⴽⴽⵙ",
+	"epidermis-action-move": "ⵙⵎⵓⵜⵜⵉ",
+	"epidermis-view-create": "ⵙⵏⵓⵍⴼⵓ",
+	"epidermis-view-edit": "ⵙⵏⴼⵍ",
+	"epidermis-view-history": "ⴰⵎⵣⵔⵓⵢ",
+	"epidermis-view-view": "ⵖⵔ"
 }

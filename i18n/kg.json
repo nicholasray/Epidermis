@@ -4,11 +4,11 @@
 			"Rkupsala"
 		]
 	},
-	"vector-action-delete": "Kufwa",
-	"vector-action-move": "Nata",
-	"vector-action-protect": "Keba",
-	"vector-view-create": "Tunga",
-	"vector-view-edit": "Soba",
-	"vector-view-history": "Tala bansoba",
-	"vector-view-view": "Tânga"
+	"epidermis-action-delete": "Kufwa",
+	"epidermis-action-move": "Nata",
+	"epidermis-action-protect": "Keba",
+	"epidermis-view-create": "Tunga",
+	"epidermis-view-edit": "Soba",
+	"epidermis-view-history": "Tala bansoba",
+	"epidermis-view-view": "Tânga"
 }

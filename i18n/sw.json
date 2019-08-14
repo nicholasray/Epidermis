@@ -7,16 +7,16 @@
 			"Yasen igra"
 		]
 	},
-	"vector-action-addsection": "Weka mada",
-	"vector-action-delete": "Futa",
-	"vector-action-move": "Hamisha",
-	"vector-action-protect": "Linda",
-	"vector-action-undelete": "Rudisha",
-	"vector-action-unprotect": "Badilisha ulinzi",
-	"vector-view-create": "Anzisha",
-	"vector-view-edit": "Hariri",
-	"vector-view-history": "Fungua historia",
-	"vector-view-view": "Soma",
-	"vector-view-viewsource": "Tazama msimbo",
-	"vector-more-actions": "Zaidi"
+	"epidermis-action-addsection": "Weka mada",
+	"epidermis-action-delete": "Futa",
+	"epidermis-action-move": "Hamisha",
+	"epidermis-action-protect": "Linda",
+	"epidermis-action-undelete": "Rudisha",
+	"epidermis-action-unprotect": "Badilisha ulinzi",
+	"epidermis-view-create": "Anzisha",
+	"epidermis-view-edit": "Hariri",
+	"epidermis-view-history": "Fungua historia",
+	"epidermis-view-view": "Soma",
+	"epidermis-view-viewsource": "Tazama msimbo",
+	"epidermis-more-actions": "Zaidi"
 }

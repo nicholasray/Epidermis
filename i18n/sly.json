@@ -4,10 +4,10 @@
 			"ZQheert"
 		]
 	},
-	"vector-action-delete": "Lelei",
-	"vector-action-move": "Palettei",
-	"vector-view-create": "Bua'",
-	"vector-view-edit": "edi'",
-	"vector-view-view": "Bacai",
-	"vector-view-viewsource": "Tilingi assala'na"
+	"epidermis-action-delete": "Lelei",
+	"epidermis-action-move": "Palettei",
+	"epidermis-view-create": "Bua'",
+	"epidermis-view-edit": "edi'",
+	"epidermis-view-view": "Bacai",
+	"epidermis-view-viewsource": "Tilingi assala'na"
 }

@@ -5,16 +5,16 @@
 			"Sebranik"
 		]
 	},
-	"vector-action-addsection": "Ližada tem",
-	"vector-action-delete": "Čuta poiš",
-	"vector-action-move": "Udesnimitada",
-	"vector-action-protect": "Kaita",
-	"vector-action-undelete": "Pördutada",
-	"vector-action-unprotect": "Toižetada kaičend",
-	"vector-view-create": "Säta",
-	"vector-view-edit": "Redaktiruida",
-	"vector-view-history": "Kacta istorii",
-	"vector-view-view": "Lugeda",
-	"vector-view-viewsource": "Kacta purtkehe",
-	"vector-more-actions": "Völ"
+	"epidermis-action-addsection": "Ližada tem",
+	"epidermis-action-delete": "Čuta poiš",
+	"epidermis-action-move": "Udesnimitada",
+	"epidermis-action-protect": "Kaita",
+	"epidermis-action-undelete": "Pördutada",
+	"epidermis-action-unprotect": "Toižetada kaičend",
+	"epidermis-view-create": "Säta",
+	"epidermis-view-edit": "Redaktiruida",
+	"epidermis-view-history": "Kacta istorii",
+	"epidermis-view-view": "Lugeda",
+	"epidermis-view-viewsource": "Kacta purtkehe",
+	"epidermis-more-actions": "Völ"
 }

@@ -5,16 +5,16 @@
 			"محک"
 		]
 	},
-	"vector-action-addsection": "ترنه گپ بزوئن",
-	"vector-action-delete": "پاک هاکردن",
-	"vector-action-move": "دکش هاکردن",
-	"vector-action-protect": "زلفن بزوئن",
-	"vector-action-undelete": "دباره بنویشته بیّن",
-	"vector-action-unprotect": "زلفن عوض هاکردن",
-	"vector-view-create": "بساتن",
-	"vector-view-edit": "دچی‌ین",
-	"vector-view-history": "تاریخچه ره بَدی‌ین",
-	"vector-view-view": "بخوندستن",
-	"vector-view-viewsource": "ونه منبع ره هارشائن",
-	"vector-more-actions": "ویشته"
+	"epidermis-action-addsection": "ترنه گپ بزوئن",
+	"epidermis-action-delete": "پاک هاکردن",
+	"epidermis-action-move": "دکش هاکردن",
+	"epidermis-action-protect": "زلفن بزوئن",
+	"epidermis-action-undelete": "دباره بنویشته بیّن",
+	"epidermis-action-unprotect": "زلفن عوض هاکردن",
+	"epidermis-view-create": "بساتن",
+	"epidermis-view-edit": "دچی‌ین",
+	"epidermis-view-history": "تاریخچه ره بَدی‌ین",
+	"epidermis-view-view": "بخوندستن",
+	"epidermis-view-viewsource": "ونه منبع ره هارشائن",
+	"epidermis-more-actions": "ویشته"
 }

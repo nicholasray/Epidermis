@@ -4,17 +4,17 @@
 			"HalanTul"
 		]
 	},
-	"vector-skin-desc": "Аныгы, саҥардыллыбыт, тупсарыллыбыт MonoBook",
-	"vector-action-addsection": "Тиэмэ эбии",
-	"vector-action-delete": "Сот",
-	"vector-action-move": "Аатын уларыт",
-	"vector-action-protect": "Уларыйбат гын",
-	"vector-action-undelete": "Төннөр",
-	"vector-action-unprotect": "Көмүскэлин уларыт",
-	"vector-view-create": "Ай",
-	"vector-view-edit": "Уларыт",
-	"vector-view-history": "Устуоруйатын көрүү",
-	"vector-view-view": "Ааҕыы",
-	"vector-view-viewsource": "Бэлиэлэрин көрүү",
-	"vector-more-actions": "Эбии"
+	"epidermis-skin-desc": "Аныгы, саҥардыллыбыт, тупсарыллыбыт MonoBook",
+	"epidermis-action-addsection": "Тиэмэ эбии",
+	"epidermis-action-delete": "Сот",
+	"epidermis-action-move": "Аатын уларыт",
+	"epidermis-action-protect": "Уларыйбат гын",
+	"epidermis-action-undelete": "Төннөр",
+	"epidermis-action-unprotect": "Көмүскэлин уларыт",
+	"epidermis-view-create": "Ай",
+	"epidermis-view-edit": "Уларыт",
+	"epidermis-view-history": "Устуоруйатын көрүү",
+	"epidermis-view-view": "Ааҕыы",
+	"epidermis-view-viewsource": "Бэлиэлэрин көрүү",
+	"epidermis-more-actions": "Эбии"
 }

@@ -4,14 +4,14 @@
 			"Imdadb"
 		]
 	},
-	"vector-action-addsection": "Púskun sarhál",
-	"vector-action-delete": "Mesa",
-	"vector-action-move": "Surif",
-	"vector-action-protect": "Rakk",
-	"vector-view-create": "Biná",
-	"vector-view-edit": "Radbadal",
-	"vector-view-history": "Lekav e ur",
-	"vector-view-view": "Xuán",
-	"vector-view-viewsource": "Bumpad e ur",
-	"vector-more-actions": "Pen"
+	"epidermis-action-addsection": "Púskun sarhál",
+	"epidermis-action-delete": "Mesa",
+	"epidermis-action-move": "Surif",
+	"epidermis-action-protect": "Rakk",
+	"epidermis-view-create": "Biná",
+	"epidermis-view-edit": "Radbadal",
+	"epidermis-view-history": "Lekav e ur",
+	"epidermis-view-view": "Xuán",
+	"epidermis-view-viewsource": "Bumpad e ur",
+	"epidermis-more-actions": "Pen"
 }

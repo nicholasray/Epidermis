@@ -5,12 +5,12 @@
 			"Elvonudinium"
 		]
 	},
-	"vector-action-addsection": "Һэдэб нэмэхэ",
-	"vector-action-delete": "Усадхаха",
-	"vector-action-move": "Зөөхэ",
-	"vector-view-create": "Үүдхэхэ",
-	"vector-view-edit": "Заһабарилха",
-	"vector-view-history": "Түүхые хараха",
-	"vector-view-view": "Уншаха",
-	"vector-view-viewsource": "эшэ үндэһэндэнь хандаха"
+	"epidermis-action-addsection": "Һэдэб нэмэхэ",
+	"epidermis-action-delete": "Усадхаха",
+	"epidermis-action-move": "Зөөхэ",
+	"epidermis-view-create": "Үүдхэхэ",
+	"epidermis-view-edit": "Заһабарилха",
+	"epidermis-view-history": "Түүхые хараха",
+	"epidermis-view-view": "Уншаха",
+	"epidermis-view-viewsource": "эшэ үндэһэндэнь хандаха"
 }

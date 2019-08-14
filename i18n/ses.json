@@ -4,13 +4,13 @@
 			"Songhay"
 		]
 	},
-	"vector-action-addsection": "Furari tonton",
-	"vector-action-delete": "Tuusu",
-	"vector-action-move": "Ganandi",
-	"vector-action-protect": "Jejebu",
-	"vector-view-create": "Tee",
-	"vector-view-edit": "Barmay",
-	"vector-view-history": "Taarikoo guna",
-	"vector-view-view": "Caw",
-	"vector-more-actions": "Ka tonton"
+	"epidermis-action-addsection": "Furari tonton",
+	"epidermis-action-delete": "Tuusu",
+	"epidermis-action-move": "Ganandi",
+	"epidermis-action-protect": "Jejebu",
+	"epidermis-view-create": "Tee",
+	"epidermis-view-edit": "Barmay",
+	"epidermis-view-history": "Taarikoo guna",
+	"epidermis-view-view": "Caw",
+	"epidermis-more-actions": "Ka tonton"
 }

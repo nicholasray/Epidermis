@@ -5,16 +5,16 @@
 			"Danvintius Bookix"
 		]
 	},
-	"vector-action-addsection": "Мевзу къош",
-	"vector-action-delete": "Ёкъ эт",
-	"vector-action-move": "Адыны денъиштир",
-	"vector-action-protect": "Къорчала",
-	"vector-action-undelete": "Янъыдан ярат",
-	"vector-action-unprotect": "Къорчалавны денъиштир",
-	"vector-view-create": "Ярат",
-	"vector-view-edit": "Денъиштир",
-	"vector-view-history": "Кечмишини косьтер",
-	"vector-view-view": "Окъу",
-	"vector-view-viewsource": "Менба кодуны косьтер",
-	"vector-more-actions": "Башкъа арекетлер"
+	"epidermis-action-addsection": "Мевзу къош",
+	"epidermis-action-delete": "Ёкъ эт",
+	"epidermis-action-move": "Адыны денъиштир",
+	"epidermis-action-protect": "Къорчала",
+	"epidermis-action-undelete": "Янъыдан ярат",
+	"epidermis-action-unprotect": "Къорчалавны денъиштир",
+	"epidermis-view-create": "Ярат",
+	"epidermis-view-edit": "Денъиштир",
+	"epidermis-view-history": "Кечмишини косьтер",
+	"epidermis-view-view": "Окъу",
+	"epidermis-view-viewsource": "Менба кодуны косьтер",
+	"epidermis-more-actions": "Башкъа арекетлер"
 }

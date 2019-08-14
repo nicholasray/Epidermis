@@ -6,15 +6,15 @@
 			"Translatealcd"
 		]
 	},
-	"vector-action-addsection": "Misan tnwang kkayal",
-	"vector-action-delete": "’muyut",
-	"vector-action-move": "Smhzi’",
-	"vector-action-protect": "Mlahang",
-	"vector-action-undelete": "Laxiy pzyuciy",
-	"vector-action-unprotect": "Sbah kinlahang",
-	"vector-view-create": "ps’rux",
-	"vector-view-edit": "Smr’zyut miru’",
-	"vector-view-history": "Psbzinah mita’ kwara’ binrwan sraral",
-	"vector-view-view": "Lpgun",
-	"vector-more-actions": "Pzyux na’"
+	"epidermis-action-addsection": "Misan tnwang kkayal",
+	"epidermis-action-delete": "’muyut",
+	"epidermis-action-move": "Smhzi’",
+	"epidermis-action-protect": "Mlahang",
+	"epidermis-action-undelete": "Laxiy pzyuciy",
+	"epidermis-action-unprotect": "Sbah kinlahang",
+	"epidermis-view-create": "ps’rux",
+	"epidermis-view-edit": "Smr’zyut miru’",
+	"epidermis-view-history": "Psbzinah mita’ kwara’ binrwan sraral",
+	"epidermis-view-view": "Lpgun",
+	"epidermis-more-actions": "Pzyux na’"
 }

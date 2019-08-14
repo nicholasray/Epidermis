@@ -8,16 +8,16 @@
 			"Janatkg"
 		]
 	},
-	"vector-action-addsection": "Тема кошуу",
-	"vector-action-delete": "Өчүрүү",
-	"vector-action-move": "Аталышын өзгөртүү",
-	"vector-action-protect": "Коргоо",
-	"vector-action-undelete": "Калыбына келтирүү",
-	"vector-action-unprotect": "Коргоону өзгөртүү",
-	"vector-view-create": "Түзүү",
-	"vector-view-edit": "Оңдоо",
-	"vector-view-history": "Тарыхын кароо",
-	"vector-view-view": "Окуу",
-	"vector-view-viewsource": "Кайнарын кароо",
-	"vector-more-actions": "Кененирээк"
+	"epidermis-action-addsection": "Тема кошуу",
+	"epidermis-action-delete": "Өчүрүү",
+	"epidermis-action-move": "Аталышын өзгөртүү",
+	"epidermis-action-protect": "Коргоо",
+	"epidermis-action-undelete": "Калыбына келтирүү",
+	"epidermis-action-unprotect": "Коргоону өзгөртүү",
+	"epidermis-view-create": "Түзүү",
+	"epidermis-view-edit": "Оңдоо",
+	"epidermis-view-history": "Тарыхын кароо",
+	"epidermis-view-view": "Окуу",
+	"epidermis-view-viewsource": "Кайнарын кароо",
+	"epidermis-more-actions": "Кененирээк"
 }

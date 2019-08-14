@@ -4,16 +4,16 @@
 			"Universal Life"
 		]
 	},
-	"vector-action-addsection": "Ajustar sujeto",
-	"vector-action-delete": "Efassar",
-	"vector-action-move": "Taşirear",
-	"vector-action-protect": "Guadrar",
-	"vector-action-undelete": "Traer atrás",
-	"vector-action-unprotect": "Trocar proteksyon",
-	"vector-view-create": "Criar",
-	"vector-view-edit": "Trocar",
-	"vector-view-history": "Ver la istoria",
-	"vector-view-view": "Meldar",
-	"vector-view-viewsource": "Ver su manadero",
-	"vector-more-actions": "Mas"
+	"epidermis-action-addsection": "Ajustar sujeto",
+	"epidermis-action-delete": "Efassar",
+	"epidermis-action-move": "Taşirear",
+	"epidermis-action-protect": "Guadrar",
+	"epidermis-action-undelete": "Traer atrás",
+	"epidermis-action-unprotect": "Trocar proteksyon",
+	"epidermis-view-create": "Criar",
+	"epidermis-view-edit": "Trocar",
+	"epidermis-view-history": "Ver la istoria",
+	"epidermis-view-view": "Meldar",
+	"epidermis-view-viewsource": "Ver su manadero",
+	"epidermis-more-actions": "Mas"
 }

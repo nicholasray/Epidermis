@@ -4,16 +4,16 @@
 			"Geoleplubo"
 		]
 	},
-	"vector-action-addsection": "Rajouter un sujeut",
-	"vector-action-delete": "Défacer",
-	"vector-action-move": "Canger ch'nom",
-	"vector-action-protect": "Garantir",
-	"vector-action-undelete": "N'poin défacher",
-	"vector-action-unprotect": "Canger l'garantie",
-	"vector-view-create": "Créer",
-	"vector-view-edit": "Éditer",
-	"vector-view-history": "Vir l'histoère",
-	"vector-view-view": "Lire",
-	"vector-view-viewsource": "Vir l'source",
-	"vector-more-actions": "Pus"
+	"epidermis-action-addsection": "Rajouter un sujeut",
+	"epidermis-action-delete": "Défacer",
+	"epidermis-action-move": "Canger ch'nom",
+	"epidermis-action-protect": "Garantir",
+	"epidermis-action-undelete": "N'poin défacher",
+	"epidermis-action-unprotect": "Canger l'garantie",
+	"epidermis-view-create": "Créer",
+	"epidermis-view-edit": "Éditer",
+	"epidermis-view-history": "Vir l'histoère",
+	"epidermis-view-view": "Lire",
+	"epidermis-view-viewsource": "Vir l'source",
+	"epidermis-more-actions": "Pus"
 }

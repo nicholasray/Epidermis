@@ -5,13 +5,13 @@
 			"Ammarpad"
 		]
 	},
-	"vector-action-addsection": "Sabon sashe",
-	"vector-action-delete": "Soke",
-	"vector-action-move": "Gusarwa",
-	"vector-action-protect": "A kare",
-	"vector-view-create": "Ƙirƙira",
-	"vector-view-edit": "Gyara",
-	"vector-view-history": "Nuna tarihin",
-	"vector-view-view": "Karanta",
-	"vector-more-actions": "Mafi"
+	"epidermis-action-addsection": "Sabon sashe",
+	"epidermis-action-delete": "Soke",
+	"epidermis-action-move": "Gusarwa",
+	"epidermis-action-protect": "A kare",
+	"epidermis-view-create": "Ƙirƙira",
+	"epidermis-view-edit": "Gyara",
+	"epidermis-view-history": "Nuna tarihin",
+	"epidermis-view-view": "Karanta",
+	"epidermis-more-actions": "Mafi"
 }

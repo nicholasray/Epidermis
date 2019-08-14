@@ -4,16 +4,16 @@
 			"Als-Holder"
 		]
 	},
-	"vector-action-addsection": "Abschnitt zuefiege",
-	"vector-action-delete": "Lesche",
-	"vector-action-move": "Verschiebe",
-	"vector-action-protect": "Schitze",
-	"vector-action-undelete": "Widerhärstelle",
-	"vector-action-unprotect": "Syteschutz ändere",
-	"vector-view-create": "Aalege",
-	"vector-view-edit": "Bearbeite",
-	"vector-view-history": "Versionsgschicht",
-	"vector-view-view": "Läse",
-	"vector-view-viewsource": "Quälltext aaluege",
-	"vector-more-actions": "Meh"
+	"epidermis-action-addsection": "Abschnitt zuefiege",
+	"epidermis-action-delete": "Lesche",
+	"epidermis-action-move": "Verschiebe",
+	"epidermis-action-protect": "Schitze",
+	"epidermis-action-undelete": "Widerhärstelle",
+	"epidermis-action-unprotect": "Syteschutz ändere",
+	"epidermis-view-create": "Aalege",
+	"epidermis-view-edit": "Bearbeite",
+	"epidermis-view-history": "Versionsgschicht",
+	"epidermis-view-view": "Läse",
+	"epidermis-view-viewsource": "Quälltext aaluege",
+	"epidermis-more-actions": "Meh"
 }

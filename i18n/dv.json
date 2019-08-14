@@ -5,16 +5,16 @@
 			"Glaisher"
 		]
 	},
-	"vector-action-addsection": "ޚިޔާލެއް އިތުރުކުރައްވާ",
-	"vector-action-delete": "ފޮހެލައްވާ",
-	"vector-action-move": "ތަން ބަދަލުކުރައްވާ",
-	"vector-action-protect": "ދިފާޢުކުރައްވާ",
-	"vector-action-undelete": "އިޔާދަކުރައްވާ",
-	"vector-action-unprotect": "ދިފާޢުކުރުން ބަދަލުކުރައްވާ",
-	"vector-view-create": "ފަށްޓަވާ",
-	"vector-view-edit": "އުނިއިތުރު ގެންނަވާ",
-	"vector-view-history": "ޞަފްޙާގެ ތާރީޚް",
-	"vector-view-view": "ކިޔުއްވާ",
-	"vector-view-viewsource": "މަސްދަރު ބައްލަވާ",
-	"vector-more-actions": "އިތުރަށް"
+	"epidermis-action-addsection": "ޚިޔާލެއް އިތުރުކުރައްވާ",
+	"epidermis-action-delete": "ފޮހެލައްވާ",
+	"epidermis-action-move": "ތަން ބަދަލުކުރައްވާ",
+	"epidermis-action-protect": "ދިފާޢުކުރައްވާ",
+	"epidermis-action-undelete": "އިޔާދަކުރައްވާ",
+	"epidermis-action-unprotect": "ދިފާޢުކުރުން ބަދަލުކުރައްވާ",
+	"epidermis-view-create": "ފަށްޓަވާ",
+	"epidermis-view-edit": "އުނިއިތުރު ގެންނަވާ",
+	"epidermis-view-history": "ޞަފްޙާގެ ތާރީޚް",
+	"epidermis-view-view": "ކިޔުއްވާ",
+	"epidermis-view-viewsource": "މަސްދަރު ބައްލަވާ",
+	"epidermis-more-actions": "އިތުރަށް"
 }

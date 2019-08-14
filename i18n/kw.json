@@ -6,16 +6,16 @@
 			"Nrowe"
 		]
 	},
-	"vector-action-addsection": "Keworra testen",
-	"vector-action-delete": "Dilea",
-	"vector-action-move": "Gwaya",
-	"vector-action-protect": "Difres",
-	"vector-action-undelete": "Disdhilea",
-	"vector-action-unprotect": "Chanjya difresans",
-	"vector-view-create": "Gwruthyl",
-	"vector-view-edit": "Chanjya",
-	"vector-view-history": "Gweles an istori",
-	"vector-view-view": "Redya",
-	"vector-view-viewsource": "Gweles an bennfenten",
-	"vector-more-actions": "Moy"
+	"epidermis-action-addsection": "Keworra testen",
+	"epidermis-action-delete": "Dilea",
+	"epidermis-action-move": "Gwaya",
+	"epidermis-action-protect": "Difres",
+	"epidermis-action-undelete": "Disdhilea",
+	"epidermis-action-unprotect": "Chanjya difresans",
+	"epidermis-view-create": "Gwruthyl",
+	"epidermis-view-edit": "Chanjya",
+	"epidermis-view-history": "Gweles an istori",
+	"epidermis-view-view": "Redya",
+	"epidermis-view-viewsource": "Gweles an bennfenten",
+	"epidermis-more-actions": "Moy"
 }

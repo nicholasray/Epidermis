@@ -6,15 +6,15 @@
 			"Mashoi7"
 		]
 	},
-	"vector-action-addsection": "Ližiä aihe",
-	"vector-action-delete": "Ota iäre",
-	"vector-action-move": "Siirrä",
-	"vector-action-protect": "Suojua",
-	"vector-action-unprotect": "Vaihta suojavustu",
-	"vector-view-create": "Luaji",
-	"vector-view-edit": "Kohendele",
-	"vector-view-history": "Kačo histourii",
-	"vector-view-view": "Luve",
-	"vector-view-viewsource": "Kačo algukoodu",
-	"vector-more-actions": "Vie"
+	"epidermis-action-addsection": "Ližiä aihe",
+	"epidermis-action-delete": "Ota iäre",
+	"epidermis-action-move": "Siirrä",
+	"epidermis-action-protect": "Suojua",
+	"epidermis-action-unprotect": "Vaihta suojavustu",
+	"epidermis-view-create": "Luaji",
+	"epidermis-view-edit": "Kohendele",
+	"epidermis-view-history": "Kačo histourii",
+	"epidermis-view-view": "Luve",
+	"epidermis-view-viewsource": "Kačo algukoodu",
+	"epidermis-more-actions": "Vie"
 }

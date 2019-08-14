@@ -5,14 +5,14 @@
 			"Axel xadolik"
 		]
 	},
-	"vector-action-addsection": "Loplekura va detce",
-	"vector-action-delete": "Sulara",
-	"vector-action-move": "Arrundara",
-	"vector-action-protect": "Nendara",
-	"vector-view-create": "Redura",
-	"vector-view-edit": "Betara",
-	"vector-view-history": "Wira va izvot",
-	"vector-view-view": "Belira",
-	"vector-view-viewsource": "klitawira",
-	"vector-more-actions": "Loon"
+	"epidermis-action-addsection": "Loplekura va detce",
+	"epidermis-action-delete": "Sulara",
+	"epidermis-action-move": "Arrundara",
+	"epidermis-action-protect": "Nendara",
+	"epidermis-view-create": "Redura",
+	"epidermis-view-edit": "Betara",
+	"epidermis-view-history": "Wira va izvot",
+	"epidermis-view-view": "Belira",
+	"epidermis-view-viewsource": "klitawira",
+	"epidermis-more-actions": "Loon"
 }

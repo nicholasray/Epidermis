@@ -5,16 +5,16 @@
 			"JinJian"
 		]
 	},
-	"vector-action-addsection": "Igdugang hin himangrawon",
-	"vector-action-delete": "Para-a",
-	"vector-action-move": "Balhina",
-	"vector-action-protect": "Panalipda",
-	"vector-action-undelete": "Igbalik an ginpara",
-	"vector-action-unprotect": "Liwani an panalipod",
-	"vector-view-create": "Himo-a",
-	"vector-view-edit": "Igliwat",
-	"vector-view-history": "Kitaa an kaagi",
-	"vector-view-view": "Basaha",
-	"vector-view-viewsource": "Kitaa an ginkuhaan",
-	"vector-more-actions": "Damo pa"
+	"epidermis-action-addsection": "Igdugang hin himangrawon",
+	"epidermis-action-delete": "Para-a",
+	"epidermis-action-move": "Balhina",
+	"epidermis-action-protect": "Panalipda",
+	"epidermis-action-undelete": "Igbalik an ginpara",
+	"epidermis-action-unprotect": "Liwani an panalipod",
+	"epidermis-view-create": "Himo-a",
+	"epidermis-view-edit": "Igliwat",
+	"epidermis-view-history": "Kitaa an kaagi",
+	"epidermis-view-view": "Basaha",
+	"epidermis-view-viewsource": "Kitaa an ginkuhaan",
+	"epidermis-more-actions": "Damo pa"
 }

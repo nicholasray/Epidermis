@@ -5,15 +5,15 @@
 			"Jun Misugi"
 		]
 	},
-	"vector-action-addsection": "Aghjunghje discussione",
-	"vector-action-delete": "Supprimà",
-	"vector-action-move": "Cullucà",
-	"vector-action-protect": "Pruteghje",
-	"vector-action-unprotect": "Cambià a prutezzione",
-	"vector-view-create": "Creà",
-	"vector-view-edit": "Mudificà",
-	"vector-view-history": "Vede a cronolugia",
-	"vector-view-view": "Leghje",
-	"vector-view-viewsource": "Vede a surghjente",
-	"vector-more-actions": "Più"
+	"epidermis-action-addsection": "Aghjunghje discussione",
+	"epidermis-action-delete": "Supprimà",
+	"epidermis-action-move": "Cullucà",
+	"epidermis-action-protect": "Pruteghje",
+	"epidermis-action-unprotect": "Cambià a prutezzione",
+	"epidermis-view-create": "Creà",
+	"epidermis-view-edit": "Mudificà",
+	"epidermis-view-history": "Vede a cronolugia",
+	"epidermis-view-view": "Leghje",
+	"epidermis-view-viewsource": "Vede a surghjente",
+	"epidermis-more-actions": "Più"
 }

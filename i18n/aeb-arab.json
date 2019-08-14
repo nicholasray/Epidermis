@@ -6,16 +6,16 @@
 			"Meno25"
 		]
 	},
-	"vector-action-addsection": "أضف موضوعا",
-	"vector-action-delete": "احذف",
-	"vector-action-move": "حوّل",
-	"vector-action-protect": "احم",
-	"vector-action-undelete": "استرجع الحذف",
-	"vector-action-unprotect": "غير الحماية",
-	"vector-view-create": "أنشئ",
-	"vector-view-edit": "بدّل",
-	"vector-view-history": "ورّي الپاج",
-	"vector-view-view": "أقرا",
-	"vector-view-viewsource": "عرض المصدر",
-	"vector-more-actions": "زادة"
+	"epidermis-action-addsection": "أضف موضوعا",
+	"epidermis-action-delete": "احذف",
+	"epidermis-action-move": "حوّل",
+	"epidermis-action-protect": "احم",
+	"epidermis-action-undelete": "استرجع الحذف",
+	"epidermis-action-unprotect": "غير الحماية",
+	"epidermis-view-create": "أنشئ",
+	"epidermis-view-edit": "بدّل",
+	"epidermis-view-history": "ورّي الپاج",
+	"epidermis-view-view": "أقرا",
+	"epidermis-view-viewsource": "عرض المصدر",
+	"epidermis-more-actions": "زادة"
 }

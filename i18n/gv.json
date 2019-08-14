@@ -5,15 +5,15 @@
 			"Shimmin Beg"
 		]
 	},
-	"vector-action-addsection": "Cur cooish noa rish",
-	"vector-action-delete": "Scryss",
-	"vector-action-move": "Scugh",
-	"vector-action-protect": "Coadee",
-	"vector-action-undelete": "Jee-scryss",
-	"vector-action-unprotect": "Caghlaa coadey",
-	"vector-view-create": "Croo",
-	"vector-view-edit": "Reagh",
-	"vector-view-history": "Jeeagh er shennaghys",
-	"vector-view-view": "Lhaih",
-	"vector-view-viewsource": "Jeeagh er bun"
+	"epidermis-action-addsection": "Cur cooish noa rish",
+	"epidermis-action-delete": "Scryss",
+	"epidermis-action-move": "Scugh",
+	"epidermis-action-protect": "Coadee",
+	"epidermis-action-undelete": "Jee-scryss",
+	"epidermis-action-unprotect": "Caghlaa coadey",
+	"epidermis-view-create": "Croo",
+	"epidermis-view-edit": "Reagh",
+	"epidermis-view-history": "Jeeagh er shennaghys",
+	"epidermis-view-view": "Lhaih",
+	"epidermis-view-viewsource": "Jeeagh er bun"
 }

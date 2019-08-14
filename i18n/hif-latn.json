@@ -5,16 +5,16 @@
 			"Thakurji"
 		]
 	},
-	"vector-action-addsection": "Topic jorro",
-	"vector-action-delete": "Mitao",
-	"vector-action-move": "Naam badlo",
-	"vector-action-protect": "Bachao",
-	"vector-action-undelete": "Pahile jaise karo",
-	"vector-action-unprotect": "Surakchha ke badlo",
-	"vector-view-create": "Banao",
-	"vector-view-edit": "Badlo",
-	"vector-view-history": "Itihaas dekho",
-	"vector-view-view": "Parrho",
-	"vector-view-viewsource": "Source dekho",
-	"vector-more-actions": "Aur"
+	"epidermis-action-addsection": "Topic jorro",
+	"epidermis-action-delete": "Mitao",
+	"epidermis-action-move": "Naam badlo",
+	"epidermis-action-protect": "Bachao",
+	"epidermis-action-undelete": "Pahile jaise karo",
+	"epidermis-action-unprotect": "Surakchha ke badlo",
+	"epidermis-view-create": "Banao",
+	"epidermis-view-edit": "Badlo",
+	"epidermis-view-history": "Itihaas dekho",
+	"epidermis-view-view": "Parrho",
+	"epidermis-view-viewsource": "Source dekho",
+	"epidermis-more-actions": "Aur"
 }

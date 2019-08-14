@@ -5,16 +5,16 @@
 			"NoiX180"
 		]
 	},
-	"vector-action-addsection": "Tambah rembug",
-	"vector-action-delete": "Busak",
-	"vector-action-move": "Lih",
-	"vector-action-protect": "Reksa",
-	"vector-action-undelete": "Wurung busak",
-	"vector-action-unprotect": "Owahi rereksan",
-	"vector-view-create": "Gawé",
-	"vector-view-edit": "Besut",
-	"vector-view-history": "Deleng sajarah",
-	"vector-view-view": "Waca",
-	"vector-view-viewsource": "Pirsani sumber",
-	"vector-more-actions": "Liyané"
+	"epidermis-action-addsection": "Tambah rembug",
+	"epidermis-action-delete": "Busak",
+	"epidermis-action-move": "Lih",
+	"epidermis-action-protect": "Reksa",
+	"epidermis-action-undelete": "Wurung busak",
+	"epidermis-action-unprotect": "Owahi rereksan",
+	"epidermis-view-create": "Gawé",
+	"epidermis-view-edit": "Besut",
+	"epidermis-view-history": "Deleng sajarah",
+	"epidermis-view-view": "Waca",
+	"epidermis-view-viewsource": "Pirsani sumber",
+	"epidermis-more-actions": "Liyané"
 }
