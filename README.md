@@ -1,28 +1,18 @@
 Epidermis Skin
 ========================
+A not-ready-for-production attempt at revamping a fork of the vector skin for our
+team's hack week.
 
-Configuration options
----------------------
+![Epidermis skin animated](screenshots/animated.gif?raw=true)
 
-### $wgEpidermisPrintLogo
+Other screenshots of Epidermis can be found [here](screenshots).
 
-Logo used in print styles. Keys are `url`, `width`, and `height` (in
-pixels). Note that this solution only works correctly if the image
-pointed to by `url` is an SVG that does not specify width and height
-attributes, or its width and height match the corresponding variables
-below. Alternatively, a PNG or other type of image can be used, but
-its dimensions also need to match the corresponding variable below.
-That in turn may result in blurry images, though.
+To enable this skin, clone this repo into the `skins` directory of your mediawiki installation, and put the following in your LocalSettings.php file:
 
-The URL can be absolute or relative.
+```php
+wfLoadSkin( 'Epidermis' );
+```
 
-Example configuration:
+You should now see the skin listed in the available skins on the
+Special:Preferences page (e.g. `/wiki/Special:Preferences#mw-prefsection-rendering`).
 
-	$wgEpidermisPrintLogo = [
-		'url' => 'https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg',
-		'width' => 174,
-		'height' => 27
-	];
-
-* Type: `Array`
-* Default: `false`
