@@ -65,7 +65,7 @@
 			],
 			"dependencies": [
 				"jquery.throttle-debounce",
-				"jquery.tabIndex"
+				"mediawiki.util"
 			]
 		}
 	},
